@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/neoon/blesdk/core/ble/BaseBleDataHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/neoon/blesdk/core/ble/BaseBleScanHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/neoon/blesdk/core/ble/BaseUUID.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/neoon/blesdk/core/ble/BleControl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/neoon/blesdk/core/ble/BluetoothLeScannerCompat.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/neoon/blesdk/core/ble/BluetoothLeScannerImplJB.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/neoon/blesdk/core/ble/BluetoothLeScannerImplLollipop.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/neoon/blesdk/core/ble/DZBLESDK.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/neoon/blesdk/core/ble/DZBLEScanner.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/neoon/blesdk/core/utils/BLELog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/neoon/blesdk/core/utils/BLEScanLimitUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/neoon/blesdk/core/utils/BLESupport.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/neoon/blesdk/core/utils/LinkedCmdBlockingDequeHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/neoon/blesdk/core/utils/TimeOutUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/neoon/blesdk/core/utils/WallpaperUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/neoon/blesdk/encapsulation/ble/ISNBLEManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/neoon/blesdk/encapsulation/ble/SNBLEControl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/neoon/blesdk/encapsulation/ble/SNBLEHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/neoon/blesdk/encapsulation/ble/SNBLEManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/neoon/blesdk/encapsulation/ble/SNBLESDK.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/neoon/blesdk/encapsulation/ble/SNBLEScanner.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/neoon/blesdk/encapsulation/ble/SNUUID.java" charset="UTF-8" />
+  </component>
+</project>

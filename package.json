@@ -1,0 +1,24 @@
+{
+  "name": "neoon-ble-sdk",
+  "version": "0.0.1",
+  "description": "BLE module for react native.",
+  "main": "SNBleManager",
+  "types": "index.js",
+
+  "keywords": [
+    "react-native",
+    "neoon-ble"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "react": "16.8.3",
+    "react-native": "0.59.10",
+    "react-native-fs": "2.13.3",
+    "react-native-elements": "1.2.5",
+    "type": "2.0.0",
+    "us": "2.0.0"
+  },
+  "devDependencies": {
+    "typescript": "3.6.4"
+  }
+}
